@@ -1,0 +1,45 @@
+body{
+    background-color: #31135b;
+}
+.Nav{
+    display: flex;
+}
+.Nav .Logo{
+   margin: 10px;
+   padding: 10px;
+   display: flex;
+   margin-left: 180px;
+   color: #f0e6fe;
+}
+.card{
+     background-color: #9c73ec;
+     margin: 10px;
+     justify-content: center;
+     border-radius: 20px;
+     padding: 20px;
+}
+.Avatar{
+    margin-top: 15px;
+   justify-content: center;
+    display: flex;
+}
+.Nav img{
+  margin: 12px;
+    width: 25px;
+    height: 25px;
+    border: #582b8f solid 2px;
+    padding: 5px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.Home-page h1{
+color: #f0e6fe;
+text-align: center;
+font-size: 40px;
+font-weight: 400;
+text-transform: capitalize;
+
+}
